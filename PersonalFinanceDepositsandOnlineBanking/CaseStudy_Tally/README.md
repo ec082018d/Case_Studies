@@ -79,7 +79,7 @@
  
 ### What are the other major companies in this domain?
  
-    The other companies in the the Robo Advisors and Personal Finance domain are:
+    The other companies in the this domain are:
    
         * Payoff
         * Credit Karma
