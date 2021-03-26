@@ -1,5 +1,5 @@
 # *Case Study* 
-# FinTech Domain: Robo Advisors and Personal Finance
+# FinTech Domain: Personal Finance, Deposits and Online Banking
 
 [![web](images/Tally.png "Tally")](https://www.meettally.com)
 #### [https://www.meettally.com/](https://www.meettally.com/)
