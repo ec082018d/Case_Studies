@@ -1,13 +1,16 @@
 
+# *Case Study:* 
+# FinTech Domain: Robo Advisors and Personal Finance
+
 [![web](images/Tally.png "Tally")](https://www.meettally.com)
 
-# *Case Studies:*
-### FinTech Domain: Robo Advisors and Personal Finance
 ##### [https://www.meettally.com/](https://www.meettally.com/)
+
+## Overview and Origin:
  
-## Overview and Origin
- 
-### Name of company: Tally
+### Name of company: 
+
+    Tally
  
 ### When was the company incorporated?
  
@@ -80,9 +83,8 @@
         * Credit Karma
         * NerdWallet
         * Nav
-   
- 
-## Results
+    
+## Results:
  
 ### What has been the business impact of this company so far?
  
