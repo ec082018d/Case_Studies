@@ -130,3 +130,27 @@
     credit repair. Offering the credit repair product or service would compliment the company 
     vision in helping the customer with struggling finances.  Also, would suggest an investment 
     solutions as well to make thier savings work for them.
+
+
+## Addendum
+
+    Levi. (2019). Fintech Analytics: The Top 7 Metrics Every Fintech Company Should Monitor. Retrieved from
+    https://www.benzinga.com/fintech/19/06/13911172/fintech-analytics-the-top-7-metrics-every-fintech-company-should-monitor
+
+    Tally Technologies, Inc. (2020). 6% of Tally Members Are Less Stressed Claim.  Retrieved from 
+    https://www.meettally.com/ (homepage footer)
+
+    Tally Technologies, Inc. (2021). About us. Retrieved from
+    https://www.meettally.com/about-us/
+
+    Crunchbase. (2021). Organization Profile: Tally. Retrieved from
+    https://www.crunchbase.com/organization/tally-technologies
+
+    Craft. (2021). Organization Profile: Tally. Retrieved from
+    https://craft.co/tally-technologies
+    
+
+
+
+
+
