@@ -1,6 +1,8 @@
 # *Case Study* 
-# FinTech Domain: Robo Advisors and Personal Finance             [![web](images/Tally.png "Tally")](https://www.meettally.com)
-                                                                 ### [https://www.meettally.com/](https://www.meettally.com/)
+# FinTech Domain: Robo Advisors and Personal Finance
+
+[![web](images/Tally.png "Tally")](https://www.meettally.com)
+#### [https://www.meettally.com/](https://www.meettally.com/)
 
 ## Overview and Origin:
  
