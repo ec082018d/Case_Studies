@@ -74,7 +74,7 @@
  
 ### What have been the major trends and innovations of this domain over the last 5-10 years?
  
-    THe major trends in the Robo Advisors and Personal Finance domain are fractional shares investing, 
+    THe major trends in the Personal Finance, Deposits and Online Banking domain are fractional shares investing, 
     online Banking, digital financial advisors, AI-based loan approvals, and digital budgeting systems.
  
 ### What are the other major companies in this domain?
