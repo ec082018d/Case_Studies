@@ -35,18 +35,22 @@
     that accelerates the process eliminating credit card debt and minimizing financial stress.
  
  
-### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+### Who is the company's intended customer?  Is there any information about the market size of this set of customers?  What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
  
     Tally's intended customers are the average individual that are experiencing financial struggles 
     and are looking for relief from high credit debt. Tally offers low interest line of credit and 
     a accelerated automated payments system that can becustomized to each user's needs to manage 
-    credit cards.
+    credit cards.  
+    
+    The products they offer to resolve this are:
+            * Tally: Pay off Debt Faster 
+            * Tally Save: Easy Savings Jar
  
-### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing –– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
  
-    Information regarding the technology Tally uses for operation is limited. In total, Tally uses 84 technology products and services:
-            * 24 technical product and service for their active products; Tally: Pay off Debt Faster and Tally Save: Easy Savings Jar
+    Information regarding the technology Tally uses for operation is limited. 
+    In total, Tally uses 84 technology products and services:
+            * 24 technical product and service for their active products; 
             * 64 technical product and service for their active products;
  
     Some of the technologies are:
@@ -66,7 +70,7 @@
  
 ### What domain of the financial industry is the company in?
  
-    Tally is part of the Robo Advisors and Personal Finance domain within the financial industry.
+    Tally is part of the Personal Finance domain within the financial industry.
  
 ### What have been the major trends and innovations of this domain over the last 5-10 years?
  
@@ -111,7 +115,7 @@
             - 3rd in market position with 8.13% growth
 
         * Valuation:
-            -Second 285 million (Only NerdWallet was reported the rest of the competitors are N/A).
+            - Second 285 million (Only NerdWallet was reported the rest of the competitors are N/A).
  
 ### How is your company performing relative to competitors in the same domain?
  
@@ -123,5 +127,6 @@
 ### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
  
     Since Tally is addressing the debit reduction acceleration and savings, I would advise Tally to offer 
-    credit repair solutions. Offering the credit repair product or service would compliment the company 
-    vision in helping the customer with struggling finances.
+    credit repair. Offering the credit repair product or service would compliment the company 
+    vision in helping the customer with struggling finances.  Also, would suggest an investment 
+    solutions as well to make thier savings work for them.
